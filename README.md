@@ -1957,7 +1957,88 @@ day -1 screenshort
 
 
 
+Day-3 = Screenshort ####################################
 
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-26-20-59-54" src="https://github.com/user-attachments/assets/c9fcd91f-8a7a-48e5-b50d-9af729ed2f69" />
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-26-21-13-24" src="https://github.com/user-attachments/assets/6073f4b2-8ffc-40cc-bcdb-63479aa9fb2e" />
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-26-21-37-40" src="https://github.com/user-attachments/assets/b756f764-da1a-4e03-942c-d4ad72102854" />
+
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-26-21-43-46" src="https://github.com/user-attachments/assets/c7e2c222-3cef-44e5-a5e4-4f2d1229fdb6" />
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-27-11-43-23" src="https://github.com/user-attachments/assets/da59b3f2-0b8b-41bd-84dd-212d114d6c15" />
+
+
+<img width="1600" height="1000" alt="PHOTO-2026-09-27-22-13-26" src="https://github.com/user-attachments/assets/8f4cd337-4aae-49d2-8e3f-40757264070b" />
+
+
+
+
+
+
+
+
+############# Day -4  Screenshort ####################
+
+
+
+
+<img width="1600" height="1000" alt="PHOTO-2026-09-27-22-13-26" src="https://github.com/user-attachments/assets/05db30ec-276b-4e76-a987-e131d2103819" />
+
+
+
+<img width="1600" height="1000" alt="PHOTO-2026-09-27-22-28-45" src="https://github.com/user-attachments/assets/129396b3-b354-4cd4-9098-93f12b9fef62" />
+
+
+
+<img width="1600" height="1000" alt="PHOTO-2026-09-27-22-57-56" src="https://github.com/user-attachments/assets/4c438285-ce18-4939-86ce-8cf77b71523d" />
+
+
+
+<img width="1440" height="900" alt="4 instance create " src="https://github.com/user-attachments/assets/0f04334f-8411-4694-8ddb-eb8f76e4dfe1" />
+
+
+
+<img width="1440" height="900" alt="cloudfrent matrics" src="https://github.com/user-attachments/assets/4bb6e06b-8772-4abf-a915-db18e92c09eb" />
+
+
+
+
+
+########### Day-5. Screenshort ##########################
+
+
+<img width="1440" height="900" alt="Screenshot 2026-09-28 at 12 45 42 PM" src="https://github.com/user-attachments/assets/23d2843d-c4af-4bf2-9be8-2054c3686474" />
+
+
+
+
+<img width="1440" height="900" alt="Screenshot 2026-09-28 at 12 47 20 PM" src="https://github.com/user-attachments/assets/a693733a-7cab-4172-946e-482a277d068b" />
+
+
+
+<img width="1440" height="900" alt="Screenshot 2026-09-28 at 12 48 52 PM" src="https://github.com/user-attachments/assets/7edbb47a-f1b3-4d2e-92cb-f0217c41ea36" />
+
+
+
+<img width="1440" height="900" alt="Screenshot 2026-09-28 at 12 49 47 PM" src="https://github.com/user-attachments/assets/7644ac28-1f1d-411f-b4c8-d48d00a7150e" />
+
+
+
+
+<img width="1600" height="1000" alt="PHOTO-2026-09-28-00-15-17" src="https://github.com/user-attachments/assets/92c65611-3b80-44d9-8ba4-c7ba5db06c99" />
+
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-28-12-00-59" src="https://github.com/user-attachments/assets/d2926178-3694-4758-b5d9-ac04cdb61397" />
 
 
 
