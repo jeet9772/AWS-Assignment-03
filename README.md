@@ -1907,3 +1907,35 @@ day -1 screenshort
 
 <img width="1440" height="900" alt="3" src="https://github.com/user-attachments/assets/1e07be12-714a-4786-be14-c30ba3c78720" />
 
+
+<img width="1440" height="900" alt="3" src="https://github.com/user-attachments/assets/85846fe9-510c-4af2-8404-00e665ef9526" />
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-26-09-49-12" src="https://github.com/user-attachments/assets/1cf91fbe-c1da-4e0c-9ee2-e7256bb8f53b" />
+
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-26-09-49-48" src="https://github.com/user-attachments/assets/657ea03a-cb9d-4ec1-a79e-6894752759d3" />
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-26-09-51-46" src="https://github.com/user-attachments/assets/6bbbb6d9-b788-4edc-afe0-b23ecb848941" />
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-26-09-56-05" src="https://github.com/user-attachments/assets/b8fb75d1-6145-4604-878f-88fb243d5bb2" />
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-26-13-36-25" src="https://github.com/user-attachments/assets/035d1326-6a22-483b-923c-7917ee8dafc2" />
+
+
+
+<img width="1280" height="800" alt="PHOTO-2026-09-26-14-14-15" src="https://github.com/user-attachments/assets/831d88f4-1905-4ab6-a2f4-5f91407b689d" />
+
+
+
+
+
+
+
+
+
+
