@@ -1949,6 +1949,14 @@ day -1 screenshort
 
 
 
+<img width="1440" height="900" alt="7" src="https://github.com/user-attachments/assets/a49bc908-a31a-4644-a6a9-21cc7a816051" />
+
+
+<img width="1440" height="900" alt="8" src="https://github.com/user-attachments/assets/b2420500-d924-4216-9dc3-d68469b80a9e" />
+
+
+
+
 
 
 
