@@ -1945,6 +1945,9 @@ day -1 screenshort
 
 <img width="1440" height="900" alt="6" src="https://github.com/user-attachments/assets/df79c2b7-eaef-418d-9e2c-a8802d227f95" />
 
+<img width="1280" height="800" alt="PHOTO-2026-09-26-14-42-30" src="https://github.com/user-attachments/assets/514cc07a-4a6f-49b6-972c-39422f673c30" />
+
+
 
 
 
