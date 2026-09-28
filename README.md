@@ -1896,3 +1896,14 @@ This assignment demonstrates a complete AWS-based Nginx infrastructure with:
 
 The implementation should first be completed manually and validated. After successful manual validation, the deployment, AMI creation, ASG update, rolling deployment and rollback processes can be automated.
 
+
+
+day -1 screenshort
+
+
+<img width="1440" height="900" alt="1" src="https://github.com/user-attachments/assets/7d9f4d42-451c-45a0-bdd7-6edec0393593" />
+
+
+
+<img width="1440" height="900" alt="3" src="https://github.com/user-attachments/assets/1e07be12-714a-4786-be14-c30ba3c78720" />
+
