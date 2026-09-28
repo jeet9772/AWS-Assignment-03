@@ -1933,6 +1933,19 @@ day -1 screenshort
 
 
 
+#######.   Day -2  Screenshort########
+
+
+
+
+<img width="1440" height="900" alt="4" src="https://github.com/user-attachments/assets/13ea3d3c-9309-4f7b-9e55-d27a151b66c2" />
+
+
+<img width="1440" height="900" alt="5" src="https://github.com/user-attachments/assets/83ec715a-dd22-4979-bbda-28edb6d2ef62" />
+
+<img width="1440" height="900" alt="6" src="https://github.com/user-attachments/assets/df79c2b7-eaef-418d-9e2c-a8802d227f95" />
+
+
 
 
 
